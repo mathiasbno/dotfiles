@@ -1,0 +1,10 @@
+#! /bin/zsh
+
+# --- VI STRICT MAPPINGS -------------------------------------------------------
+
+setopt autocd
+bindkey -v
+
+# --- REVERSE SEARCH WITH CTRL-R -----------------------------------------------
+
+bindkey '^R' history-incremental-search-backward
