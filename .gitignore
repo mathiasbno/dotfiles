@@ -3,3 +3,6 @@
 
 # Private keys etc.
 zsh/config/.private
+
+# Netrw History file
+vim/.netrwhist
