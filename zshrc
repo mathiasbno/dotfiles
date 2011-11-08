@@ -9,4 +9,6 @@ source ~/.zsh/config/aliases
 
 source ~/.zsh/config/sources
 
+source ~/.zsh/config/*.fun
+
 source ~/.zsh/config/.private
