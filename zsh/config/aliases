@@ -15,4 +15,8 @@ alias ll='ls -la'
 
 # --- COPY TO X CLIPBOARD ------------------------------------------------------
 
-alias xcp='xclip -selection clipboard'
+if [ -x xclip ] ; then
+  alias xcp='xclip -selection clipboard'
+fi
+
+
