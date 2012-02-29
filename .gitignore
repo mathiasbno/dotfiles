@@ -6,3 +6,6 @@ zsh/config/.private
 
 # Netrw History file
 vim/.netrwhist
+
+# Ignore Vim spell files
+vim/spell/
