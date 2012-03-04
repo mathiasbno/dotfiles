@@ -1,0 +1,11 @@
+ [alias]
+  co    = checkout
+  ci    = commit
+  st    = status
+  br    = branch
+  df    = diff
+  hist  = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+
+[user]
+  name = Sindre Moen
+  email = sindrenm@gmail.com
