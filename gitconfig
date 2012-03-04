@@ -9,3 +9,6 @@
 [user]
   name = Sindre Moen
   email = sindrenm@gmail.com
+
+[core]
+  excludesfile = $HOME/.gitignore
