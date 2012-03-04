@@ -1,0 +1,8 @@
+# Databases and logs
+*.sqlite
+*.sqlite3
+*.log
+
+# Vim swap files
+*.swp
+*.swo
