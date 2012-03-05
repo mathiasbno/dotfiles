@@ -1,0 +1,6 @@
+project_name: sindrenm
+project_root: ~/dev/sindrenm
+tabs:
+  - editor: clear; vim
+  - console: clear; rails c
+  - server: clear; rails s thin
