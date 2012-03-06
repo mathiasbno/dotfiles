@@ -1,0 +1,6 @@
+project_name: Silje Kleven Photography
+project_root: ~/dev/siljekleven
+tabs:
+  - editor: clear; vim
+  - console: clear; rails c
+  - server: clear; rails s
