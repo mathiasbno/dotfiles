@@ -3,4 +3,5 @@ project_root: ~/dev/siljekleven
 tabs:
   - editor: clear; vim
   - console: clear; rails c
+  - shell: clear # empty, just a plain shell
   - server: clear; rails s
