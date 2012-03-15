@@ -1,0 +1,6 @@
+project_name: RailsCasts
+project_root: ~/dev/railscasts
+tabs:
+  - editor: vim
+  - console: rails c
+  - server: rails s
