@@ -94,3 +94,9 @@
 [submodule "vim/bundle/repeat"]
 	path = vim/bundle/repeat
 	url = https://github.com/tpope/vim-repeat.git
+[submodule "vim/bundle/ragtag"]
+	path = vim/bundle/ragtag
+	url = git://github.com/tpope/vim-ragtag.git
+[submodule "vim/bundle/less"]
+	path = vim/bundle/less
+	url = git://github.com/groenewege/vim-less.git
