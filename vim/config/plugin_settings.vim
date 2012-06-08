@@ -9,3 +9,6 @@ let g:Tex_DefaultTargetFormat='pdf'
 
 " As of Vim 7, empty .tex files have filetype 'plaintex'. Default back to 'tex'
 let g:tex_flavor='latex'
+
+" Vim Slime defaults to using GNU Screen, but I prefer tmux instead
+let g:slime_target='tmux'

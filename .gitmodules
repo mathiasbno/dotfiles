@@ -100,3 +100,6 @@
 [submodule "vim/bundle/less"]
 	path = vim/bundle/less
 	url = git://github.com/groenewege/vim-less.git
+[submodule "vim/bundle/slime"]
+	path = vim/bundle/slime
+	url = git://github.com/jpalardy/vim-slime.git
