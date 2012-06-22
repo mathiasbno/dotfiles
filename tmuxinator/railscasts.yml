@@ -1,5 +1,5 @@
 project_name: RailsCasts
-project_root: ~/dev/railscasts
+project_root: ~/code/railscasts
 tabs:
   - editor: vim
   - console: rails c
