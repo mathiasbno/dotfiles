@@ -11,4 +11,5 @@ source ~/.zsh/config/sources
 
 source ~/.zsh/config/*.fun
 
+source ~/.zsh/config/paths
 source ~/.zsh/config/.private
