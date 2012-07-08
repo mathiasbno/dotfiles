@@ -103,3 +103,6 @@
 [submodule "vim/bundle/slime"]
 	path = vim/bundle/slime
 	url = git://github.com/jpalardy/vim-slime.git
+[submodule "vim/bundle/stylus"]
+	path = vim/bundle/stylus
+	url = git://github.com/wavded/vim-stylus.git
