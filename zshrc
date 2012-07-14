@@ -1,15 +1,1 @@
-source ~/.zsh/config/environment
-
-source ~/.zsh/config/completion
-source ~/.zsh/config/history
-source ~/.zsh/config/options
-
-source ~/.zsh/config/prompt
-source ~/.zsh/config/aliases
-
-source ~/.zsh/config/sources
-
-source ~/.zsh/config/*.fun
-
-source ~/.zsh/config/paths
-source ~/.zsh/config/.private
+oh-my-zsh/templates/zshrc.zsh-template
