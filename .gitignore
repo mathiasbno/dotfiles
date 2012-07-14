@@ -2,7 +2,7 @@
 *.swp
 
 # Local binary paths
-zsh/config/paths
+zsh/config/paths.zsh
 
 # Private keys etc.
 zsh/config/.private
