@@ -2,7 +2,6 @@
 
 # --- VI STRICT MAPPINGS -------------------------------------------------------
 
-setopt autocd
 bindkey -v
 
 # --- REVERSE SEARCH WITH CTRL-R -----------------------------------------------

@@ -2,7 +2,6 @@
 
 # --- Coloring -----------------------------------------------------------------
 
-alias ls='ls --color=always'
 alias grep='grep --color=always'
 alias tree='tree -C'
 alias less='less -R'
@@ -18,5 +17,3 @@ alias ll='ls -la'
 if [ -x xclip ] ; then
   alias xcp='xclip -selection clipboard'
 fi
-
-
