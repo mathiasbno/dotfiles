@@ -12,3 +12,7 @@
 
 [core]
   excludesfile = ~/.gitignore
+[color "diff"]
+	whitespace = red reverse
+[color]
+	ui = auto
