@@ -5,7 +5,7 @@
 zsh/config/paths.zsh
 
 # Private keys etc.
-zsh/config/.private
+zsh/config/.private.zsh
 
 # Netrw History file
 vim/.netrwhist
