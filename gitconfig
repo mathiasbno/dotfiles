@@ -5,6 +5,7 @@
   br    = branch
   df    = diff
   hist  = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  last  = "!f() { git hist --max-count $1; }; f"
 
 [user]
   name = Sindre Moen
