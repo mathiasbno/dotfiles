@@ -112,3 +112,6 @@
 [submodule "bundle/jasmine"]
 	path = bundle/jasmine
 	url = git://github.com/claco/jasmine.vim.git
+[submodule "vim/bundle/latex"]
+	path = vim/bundle/latex
+	url = git://github.com/jcf/vim-latex.git
