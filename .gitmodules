@@ -115,3 +115,9 @@
 [submodule "vim/bundle/latex"]
 	path = vim/bundle/latex
 	url = git://github.com/jcf/vim-latex.git
+[submodule "vim/bundle/javascript"]
+	path = vim/bundle/javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vim/bundle/jst"]
+	path = vim/bundle/jst
+	url = https://github.com/briancollins/vim-jst.git
