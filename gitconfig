@@ -1,4 +1,17 @@
- [alias]
+[core]
+  excludesfile = ~/.gitignore
+
+[user]
+  name = Sindre Moen
+  email = sindrenm@gmail.com
+
+[color "diff"]
+  whitespace = red reverse
+
+[color]
+  ui = auto
+
+[alias]
   co    = checkout
   ci    = commit
   st    = status
@@ -6,14 +19,3 @@
   df    = diff
   hist  = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
   last  = "!f() { git hist --max-count $1; }; f"
-
-[user]
-  name = Sindre Moen
-  email = sindrenm@gmail.com
-
-[core]
-  excludesfile = ~/.gitignore
-[color "diff"]
-	whitespace = red reverse
-[color]
-	ui = auto
