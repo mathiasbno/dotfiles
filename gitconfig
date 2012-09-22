@@ -14,7 +14,7 @@
 [alias]
   co    = checkout
   ci    = commit
-  st    = status
+  st    = status --ignore-submodules
   br    = branch -v
   df    = diff --ignore-submodules
   hist  = log --graph --pretty=format:'%C(red)%h%Creset %C(green)%ad%Creset | %s%C(yellow)%d%Creset %C(bold blue)<%an>%Creset' --date=short
