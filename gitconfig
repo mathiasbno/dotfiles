@@ -17,5 +17,5 @@
   st    = status
   br    = branch -v
   df    = diff
-  hist  = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  hist  = log --graph --pretty=format:'%C(red)%h%Creset %C(green)%ad%Creset | %s%C(yellow)%d%Creset %C(bold blue)<%an>%Creset' --date=short
   last  = "!f() { git hist --max-count $1; }; f"
