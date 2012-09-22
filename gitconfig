@@ -16,6 +16,6 @@
   ci    = commit
   st    = status
   br    = branch -v
-  df    = diff
+  df    = diff --ignore-submodules
   hist  = log --graph --pretty=format:'%C(red)%h%Creset %C(green)%ad%Creset | %s%C(yellow)%d%Creset %C(bold blue)<%an>%Creset' --date=short
   last  = "!f() { git hist --max-count $1; }; f"
