@@ -1,12 +1,12 @@
 #! /bin/zsh
 
 PATH=/usr/local/texlive/2011/bin/i386-linux:$PATH
-PATH=/usr/local/texlive/2011/bin/x86_64-linux:$PATH
+PATH=/usr/local/texlive/2012/bin/x86_64-linux:$PATH
 PATH=$HOME/bin:$PATH;                                       export PATH
 
-MANPATH=/usr/local/texlive/2010/texmf/doc/man:$MANPATH;     export MANPATH
+MANPATH=/usr/local/texlive/2012/texmf/doc/man:$MANPATH;     export MANPATH
 
-INFOPATH=/usr/local/texlive/2010/texmf/doc/info:$INFOPATH;  export INFOPATH
+INFOPATH=/usr/local/texlive/2012/texmf/doc/info:$INFOPATH;  export INFOPATH
 
 TERM=xterm;                                                 export TERM
 
