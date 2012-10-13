@@ -9,3 +9,6 @@ set ruler
 
 " Allow 80 characters on each line before breaking
 set textwidth=80
+
+" Use only a single space when joining lines
+set nojoinspaces
