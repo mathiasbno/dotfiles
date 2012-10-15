@@ -1,0 +1,3 @@
+/*jslint undef: true, indent: 2, maxlen: 120 */
+/*global jQuery, $, module, require, GLOBAL, console, Buffer, process, exports, JSON, setTimeout */
+/* vim: set ft=javascript: */
