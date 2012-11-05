@@ -1,3 +1,2 @@
-/*jslint undef: true, indent: 2, maxlen: 120 */
+/*jslint es5: true, nomen: true, sloppy: true, white: true, devel: true, node: true, windows: false, indent: 2, maxerr: 50, maxlen: 120 */
 /*global jQuery, $, module, require, GLOBAL, console, Buffer, process, exports, JSON, setTimeout */
-/* vim: set ft=javascript: */
