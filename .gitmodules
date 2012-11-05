@@ -127,3 +127,9 @@
 [submodule "vim/bundle/jslint"]
 	path = vim/bundle/jslint
 	url = git://github.com/hallettj/jslint.vim.git
+[submodule "vim/bundle/qargs"]
+	path = vim/bundle/qargs
+	url = git://github.com/nelstrom/vim-qargs.git
+[submodule "vim/bundle/abolish"]
+	path = vim/bundle/abolish
+	url = git://github.com/tpope/vim-abolish.git
