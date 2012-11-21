@@ -106,9 +106,6 @@
 [submodule "vim/bundle/stylus"]
 	path = vim/bundle/stylus
 	url = git://github.com/wavded/vim-stylus.git
-[submodule "oh-my-zsh"]
-	path = oh-my-zsh
-	url = https://github.com/sindrenm/oh-my-zsh.git
 [submodule "bundle/jasmine"]
 	path = bundle/jasmine
 	url = git://github.com/claco/jasmine.vim.git
@@ -133,3 +130,6 @@
 [submodule "vim/bundle/abolish"]
 	path = vim/bundle/abolish
 	url = git://github.com/tpope/vim-abolish.git
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = git://github.com/robbyrussell/oh-my-zsh.git
