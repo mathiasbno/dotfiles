@@ -12,3 +12,6 @@ set textwidth=80
 
 " Use only a single space when joining lines
 set nojoinspaces
+
+" Prevent errors with LiveReload and write backups
+set nowritebackup
