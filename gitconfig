@@ -1,5 +1,6 @@
 [core]
   excludesfile = ~/.gitignore
+  pager = less -FRSX
 
 [user]
   name = Sindre Moen
