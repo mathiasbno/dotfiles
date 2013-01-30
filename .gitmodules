@@ -121,9 +121,6 @@
 [submodule "vim/bundle/jade"]
 	path = vim/bundle/jade
 	url = https://github.com/digitaltoad/vim-jade.git
-[submodule "vim/bundle/jslint"]
-	path = vim/bundle/jslint
-	url = git://github.com/hallettj/jslint.vim.git
 [submodule "vim/bundle/qargs"]
 	path = vim/bundle/qargs
 	url = git://github.com/nelstrom/vim-qargs.git
