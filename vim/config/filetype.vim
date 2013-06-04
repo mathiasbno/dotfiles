@@ -1,5 +1,6 @@
 " --- INDENTATION AND PLUGINS --------------------------------------------------
 
+syntax on
 filetype indent plugin on
 
 " --- AUTOCOMMANDS -------------------------------------------------------------

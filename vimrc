@@ -4,6 +4,7 @@ set nocompatible
 
 " --- SOURING CONFIGURATION FILES ----------------------------------------------
 
+source ~/.vim/config/autocommands.vim
 source ~/.vim/config/functions.vim
 source ~/.vim/config/filetype.vim
 source ~/.vim/config/highlights.vim
