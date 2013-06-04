@@ -1,7 +1,0 @@
-project_name: ArtFlow
-project_root: ~/code/artflow
-tabs:
-  - editor: clear; vim
-  - console: clear; rails c
-  - shell: clear;
-  - server: clear; rails s

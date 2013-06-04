@@ -1,5 +1,0 @@
-project_name: Wall
-project_root: ~/code/wall
-tabs:
-  - editor: clear; vim
-  - server: clear; meteor
