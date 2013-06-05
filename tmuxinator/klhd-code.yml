@@ -5,11 +5,11 @@ tabs:
       layout: 8589,295x73,0,0[295x56,0,0,0,295x16,0,57,1]
       panes:
         - reset; vim
-        - vagrant ssh; reset; bundle exec guard -p
+        - reset; vagrant ssh
   - local shell:
       layout: c15f,295x73,0,0,2
       panes:
-        - 
+        - reset
   - remote shell:
       layout: c162,295x73,0,0,5
       panes:
@@ -17,4 +17,4 @@ tabs:
   - rails server:
       layout: c160,295x73,0,0,3
       panes:
-        - vagrant ssh; cd /vagrant; reset; rails s
+        - vagrant ssh
