@@ -6,3 +6,6 @@
 # Vim swap files
 *.swp
 *.swo
+
+# OS X dorectory attributes
+.DS_Store
