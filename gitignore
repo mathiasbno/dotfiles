@@ -9,3 +9,6 @@
 
 # OS X dorectory attributes
 .DS_Store
+
+# Todo list files
+.todo
