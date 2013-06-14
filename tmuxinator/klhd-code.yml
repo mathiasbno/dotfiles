@@ -10,6 +10,10 @@ tabs:
       layout: c15f,295x73,0,0,2
       panes:
         - clear
+  - rails console:
+      layout: c162,295x73,0,0,5
+      panes:
+        - clear; vagrant ssh
   - remote shell:
       layout: c162,295x73,0,0,5
       panes:
