@@ -2,6 +2,11 @@
 
 set nocompatible
 
+" --- SET COLORSCHEME ----------------------------------------------------------
+
+"colorscheme Dim
+colorscheme default
+
 " --- SOURING CONFIGURATION FILES ----------------------------------------------
 
 source ~/.vim/config/autocommands.vim
@@ -16,8 +21,4 @@ source ~/.vim/config/tabs.vim
 source ~/.vim/config/plugin_settings.vim
 source ~/.vim/config/pathogen.vim
 source ~/.vim/config/misc.vim
-
-" --- SET COLORSCHEME ----------------------------------------------------------
-
-"colorscheme Dim
-colorscheme default
+source ~/.vim/config/colors.vim
