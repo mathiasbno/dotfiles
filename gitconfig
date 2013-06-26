@@ -27,3 +27,5 @@
 
 [push]
   default = simple
+[clean]
+  requireForce = false
