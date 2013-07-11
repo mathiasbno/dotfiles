@@ -16,3 +16,6 @@ let g:slime_target='tmux'
 " Zen Coding configuration
 let g:user_zen_leader_key = '<c-c>'
 let g:user_zen_settings = { 'indentation' : '  ' }
+
+" Set directory for Vim snippets
+let g:snippets_dir = '~/.vim/bundle/snippets/snippets'
