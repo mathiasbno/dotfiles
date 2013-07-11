@@ -1,3 +1,6 @@
+" Use comma as leader key
+let mapleader = ','
+
 " Make it easy to open the .vimrc file with
 nnoremap <leader>v :tabedit $MYVIMRC<CR>
 
