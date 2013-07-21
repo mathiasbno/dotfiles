@@ -1,7 +1,6 @@
 #! /bin/zsh
 
-PATH=/usr/local/texlive/2011/bin/i386-linux:$PATH
-PATH=/usr/local/texlive/2012/bin/x86_64-linux:$PATH
+PATH=/usr/local/texlive/2013/bin/x86_64-linux:$PATH
 PATH=/usr/local/heroku/bin:$PATH
 PATH=$HOME/.rbenv/bin:$PATH;
 PATH=$HOME/bin:$PATH;                                       export PATH
