@@ -1,6 +1,3 @@
-" Make grep always generate a file name
-set grepprg=grep\ -nH\ $*
-
 " Enable numbering always
 set number
 

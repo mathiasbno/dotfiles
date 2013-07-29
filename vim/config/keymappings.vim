@@ -1,3 +1,6 @@
+" Use comma as leader key
+let mapleader = ','
+
 " Make it easy to open the .vimrc file with
 nnoremap <leader>v :tabedit $MYVIMRC<CR>
 
@@ -6,3 +9,6 @@ nnoremap <leader>sc :%s/\s\+$//g<CR><C-o>
 
 " Remap that stupid Y to yank from the cursor to the end of the line
 nmap Y Du
+
+" Fix backspace key
+set backspace=2
