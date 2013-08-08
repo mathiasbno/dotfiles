@@ -1,5 +1,7 @@
 #! /bin/zsh
 
+PATH=$HOME/.android-sdk/tools:$PATH
+PATH=$HOME/.android-sdk/platform-tools:$PATH
 PATH=/usr/local/texlive/2013/bin/x86_64-linux:$PATH
 PATH=/usr/local/heroku/bin:$PATH
 PATH=$HOME/.rbenv/bin:$PATH;
