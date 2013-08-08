@@ -1,6 +1,6 @@
 project_name: sindrenm
 project_root: ~/code/sindrenm
-tabs:
+windows:
   - vim:
       layout: d46a,237x56,0,0[237x43,0,0,0,237x12,0,44,1]
       panes:

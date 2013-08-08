@@ -1,6 +1,6 @@
 project_name: KLHD Code
 project_root: ~/code/rema1000/klhd/rema-klhd-code
-tabs:
+windows:
   - editor:
       layout: 8589,295x73,0,0[295x56,0,0,0,295x16,0,57,1]
       panes:
