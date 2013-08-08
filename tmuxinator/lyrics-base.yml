@@ -1,5 +1,8 @@
 project_name: LyricsBase
 project_root: ~/code/lyrics-base
+pre:
+  - unset RBENV_DIR
+  - unset RBENV_VERSION
 windows:
   - editor:
       layout: 546c,237x56,0,0[237x43,0,0,0,237x12,0,44,4]
