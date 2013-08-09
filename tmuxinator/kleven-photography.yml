@@ -1,6 +1,9 @@
 project_name: Silje Kleven Photography
 project_root: ~/code/kleven-photography
-tabs:
+pre:
+  - unset RBENV_DIR
+  - unset RBENV_VERSION
+windows:
   - vim:
       layout: 7d6e,237x58,0,0[237x44,0,0,0,237x13,0,45,4]
       panes:
