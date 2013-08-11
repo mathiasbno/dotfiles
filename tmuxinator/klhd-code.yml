@@ -8,7 +8,7 @@ windows:
       layout: 8589,295x73,0,0[295x56,0,0,0,295x16,0,57,1]
       panes:
         - clear; vim
-        - clear; vagrant ssh
+        - clear; be guard
   - local shell:
       layout: c15f,295x73,0,0,2
       panes:
@@ -16,12 +16,4 @@ windows:
   - rails console:
       layout: c162,295x73,0,0,5
       panes:
-        - clear; vagrant ssh
-  - remote shell:
-      layout: c162,295x73,0,0,5
-      panes:
-        - clear; vagrant ssh
-  - rails server:
-      layout: c160,295x73,0,0,3
-      panes:
-        - clear; vagrant ssh
+        - clear; be rails console
