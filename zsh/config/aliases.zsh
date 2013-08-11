@@ -25,3 +25,8 @@ alias sudo='nocorrect sudo'
 # --- BUNDLER ALIASES ----------------------------------------------------------
 
 alias be='bundle exec'
+
+# --- UNALIASES ----------------------------------------------------------------
+
+unalias ..
+unalias ...
