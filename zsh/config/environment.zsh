@@ -1,5 +1,6 @@
 #! /bin/zsh
 
+PATH=/usr/local/bin:$PATH
 PATH=$HOME/.android-sdk/tools:$PATH
 PATH=$HOME/.android-sdk/platform-tools:$PATH
 PATH=/usr/local/texlive/2013/bin/x86_64-linux:$PATH
