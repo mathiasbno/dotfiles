@@ -7,6 +7,9 @@
 *.swp
 *.swo
 
+# LibreOffice backup files
+.~lock.*
+
 # OS X dorectory attributes
 .DS_Store
 
