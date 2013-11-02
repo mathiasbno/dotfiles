@@ -1,5 +1,5 @@
 project_name: Designstudio
-project_root: ~/code/bademiljø/designstudio/designstudio-code
+project_root: ~/code/hyper/bademiljø/designstudio/designstudio-code
 pre:
   - unset RBENV_DIR
   - unset RBENV_VERSION
