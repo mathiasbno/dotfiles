@@ -1,19 +1,19 @@
 project_name: Designstudio
-project_root: ~/code/hyper/bademiljø/designstudio/designstudio-code
-pre:
-  - unset RBENV_DIR
-  - unset RBENV_VERSION
+project_root: ~/code/hyper/bademiljo/designstudio/designstudio-code
 windows:
   - editor:
-      layout: 8589,295x73,0,0[295x56,0,0,0,295x16,0,57,1]
+      layout: 5c01,282x71,0,0,12
       panes:
-        - clear; vim
-        - clear; be guard
+        - clear ; vim
   - local shell:
-      layout: c15f,295x73,0,0,2
+      layout: 5c02,282x71,0,0,13
       panes:
         - clear
   - rails console:
-      layout: c162,295x73,0,0,5
+      layout: 5c03,282x71,0,0,14
       panes:
-        - clear; be rails console
+        - sleep 1 ; clear ; zeus console
+  - zeus:
+      layout: 5c04,282x71,0,0,15
+      panes:
+        - clear ; zeus start
