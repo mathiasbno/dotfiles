@@ -6,6 +6,10 @@ alias grep='grep --color=always'
 alias tree='tree -C'
 alias less='less -R'
 
+# --- Git ----------------------------------------------------------------------
+
+alias g='git'
+
 # --- LS shortcuts -------------------------------------------------------------
 
 alias l='ls -l'
