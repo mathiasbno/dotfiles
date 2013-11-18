@@ -10,3 +10,5 @@ export LANG=en_US.UTF-8
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
+
+prompt minimal
