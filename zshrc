@@ -1,5 +1,3 @@
-source ~/.oh-my-zsh/templates/zshrc.zsh-template
-
 source ~/.zsh/config/completion.zsh
 source ~/.zsh/config/environment.zsh
 source ~/.zsh/config/options.zsh

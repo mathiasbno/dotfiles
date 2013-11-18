@@ -124,9 +124,6 @@
 [submodule "vim/bundle/abolish"]
 	path = vim/bundle/abolish
 	url = git://github.com/tpope/vim-abolish.git
-[submodule "oh-my-zsh"]
-	path = oh-my-zsh
-	url = git://github.com/robbyrussell/oh-my-zsh.git
 [submodule "vim/bundle/characterize"]
 	path = vim/bundle/characterize
 	url = git://github.com/tpope/vim-characterize.git
