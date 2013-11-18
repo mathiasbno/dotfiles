@@ -23,6 +23,7 @@
   pr    = pull --rebase --ff-only
   gtfo  = push
   gief  = pull
+  stag  = push staging staging:master
 
 [github]
   user = sindrenm
