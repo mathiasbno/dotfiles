@@ -1,5 +1,5 @@
-project_name: Designstudio
-project_root: ~/code/hyper/bademiljo/designstudio/designstudio-code
+project_name: Kunnskapsropet
+project_root: ~/code/hyper/sykehuset-innland/kunnskapsropet/kunnskapsropet-code
 windows:
   - editor:
       layout: 5c01,282x71,0,0,12

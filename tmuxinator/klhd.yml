@@ -1,5 +1,5 @@
 project_name: KLHD Code
-project_root: ~/code/hyper/rema1000/klhd/rema-klhd-code
+project_root: ~/code/hyper/rema/rema-klhd/klhd-code
 pre:
   - unset RBENV_DIR
   - unset RBENV_VERSION
