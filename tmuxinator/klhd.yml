@@ -1,6 +1,7 @@
 project_name: KLHD Code
 project_root: ~/code/hyper/rema/rema-klhd/klhd-code
 pre:
+  - tmux set-environment -gu RBENV_VERSION
   - unset RBENV_DIR
   - unset RBENV_VERSION
 windows:
