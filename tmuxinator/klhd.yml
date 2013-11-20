@@ -9,7 +9,7 @@ windows:
       layout: 8589,295x73,0,0[295x56,0,0,0,295x16,0,57,1]
       panes:
         - clear; vim
-        - clear; be guard
+        - sleep 1; clear; be guard
   - local shell:
       layout: c15f,295x73,0,0,2
       panes:
@@ -17,4 +17,8 @@ windows:
   - rails console:
       layout: c162,295x73,0,0,5
       panes:
-        - clear; be rails console
+        - sleep 1; clear; zeus console
+  - zeus:
+      layout: 5c04,282x71,0,0,15
+      panes:
+        - clear ; zeus start
