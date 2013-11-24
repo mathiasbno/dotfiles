@@ -29,3 +29,7 @@ alias sudo='nocorrect sudo'
 # --- BUNDLER ALIASES ----------------------------------------------------------
 
 alias be='bundle exec'
+
+# --- DO NOT PROMPT BEFORE EVERY FILE REMOVAL ----------------------------------
+
+unalias rm
