@@ -1,6 +1,7 @@
 [core]
   excludesfile = ~/.gitignore
   pager = less -FRSX
+  editor = vim
 
 [user]
   name = Sindre Moen
