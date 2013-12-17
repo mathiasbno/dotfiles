@@ -25,6 +25,7 @@
   gtfo  = push
   gief  = pull
   stag  = push staging staging:master
+  prod  = push production production:master
 
 [github]
   user = sindrenm
