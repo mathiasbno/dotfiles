@@ -7,6 +7,9 @@ zsh/config/paths.zsh
 # Private keys etc.
 zsh/config/.private.zsh
 
+# Environment-specific Vim config
+vim/config/.environment.vim
+
 # Netrw History file
 vim/.netrwhist
 
