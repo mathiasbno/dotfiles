@@ -9,8 +9,7 @@ colorscheme default
 
 " --- SOURING CONFIGURATION FILES ----------------------------------------------
 
-source ~/.vim/config/.private.vim
-
+source ~/.vim/config/.environment.vim
 source ~/.vim/config/autocommands.vim
 source ~/.vim/config/functions.vim
 source ~/.vim/config/filetype.vim
