@@ -17,6 +17,7 @@ Bundle "tpope/vim-haml"
 Bundle "tpope/vim-markdown"
 Bundle "tpope/vim-ragtag"
 Bundle "tpope/vim-rails"
+Bundle "vim-ruby/vim-ruby"
 Bundle "vim-scripts/matchit.zip"
 Bundle "wavded/vim-stylus"
 
