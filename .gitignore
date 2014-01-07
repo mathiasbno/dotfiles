@@ -7,6 +7,9 @@ zsh/config/paths.zsh
 # Private keys etc.
 zsh/config/.private.zsh
 
+# Vim plugins managed by Vundle
+vim/bundle
+
 # Environment-specific Vim config
 vim/config/.environment.vim
 
