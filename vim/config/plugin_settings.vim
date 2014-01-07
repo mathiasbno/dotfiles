@@ -1,6 +1,3 @@
-" Enable pathogen
-call pathogen#infect()
-
 " Set snipMate snippets directory
 let g:snippets_dir='~/.vim/snippets'
 

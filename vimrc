@@ -20,6 +20,5 @@ source ~/.vim/config/cursor.vim
 source ~/.vim/config/indentation.vim
 source ~/.vim/config/tabs.vim
 source ~/.vim/config/plugin_settings.vim
-source ~/.vim/config/pathogen.vim
 source ~/.vim/config/misc.vim
 source ~/.vim/config/colors.vim
