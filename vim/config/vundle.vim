@@ -32,7 +32,10 @@ Bundle "vim-scripts/TextFormat"
 Bundle "tpope/vim-surround"
 
 " Text objects
+Bundle "jceb/vim-textobj-uri"
+Bundle "kana/vim-textobj-fold"
 Bundle "kana/vim-textobj-user"
+Bundle "killphi/vim-textobj-signify-hunk"
 Bundle "nelstrom/vim-textobj-rubyblock"
 
 " Version control
