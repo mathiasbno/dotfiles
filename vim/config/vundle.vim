@@ -35,8 +35,8 @@ Bundle "kana/vim-textobj-user"
 Bundle "nelstrom/vim-textobj-rubyblock"
 
 " Version control
-Bundle "airblade/vim-gitgutter"
 Bundle "gregsexton/gitv"
+Bundle "mhinz/vim-signify"
 Bundle "tpope/vim-fugitive"
 
 " Misclellaneous
