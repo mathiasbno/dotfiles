@@ -16,8 +16,4 @@ windows:
   - rails console:
       layout: 5c03,282x71,0,0,14
       panes:
-        - sleep 1 ; clear ; zeus console
-  - zeus:
-      layout: 5c04,282x71,0,0,15
-      panes:
-        - clear ; zeus start
+        - clear ; bin/rails console
