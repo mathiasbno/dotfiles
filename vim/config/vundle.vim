@@ -5,6 +5,7 @@ Bundle "gmarik/vundle"
 Bundle "tpope/vim-characterize"
 Bundle "tpope/vim-repeat"
 Bundle "tpope/vim-speeddating"
+Bundle "tpope/vim-unimpaired"
 
 " Language support
 Bundle "digitaltoad/vim-jade"
