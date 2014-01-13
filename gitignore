@@ -15,3 +15,6 @@
 
 # Todo list files
 .todo
+
+# Exuberant ctags
+tags
