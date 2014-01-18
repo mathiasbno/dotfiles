@@ -22,10 +22,6 @@ if [ -x xclip ] ; then
   alias xcp='xclip -selection clipboard'
 fi
 
-# --- DISABLE ZSH AUTOCOMPLETION FOR SUDO --------------------------------------
-
-alias sudo='nocorrect sudo'
-
 # --- BUNDLER ALIASES ----------------------------------------------------------
 
 alias be='bundle exec'
