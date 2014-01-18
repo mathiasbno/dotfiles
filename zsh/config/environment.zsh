@@ -16,4 +16,3 @@ INFOPATH=/usr/local/texlive/2012/texmf/doc/info:$INFOPATH;  export INFOPATH
 TERM=xterm;                                                 export TERM
 
 EDITOR=vim;                                                 export EDITOR
-
