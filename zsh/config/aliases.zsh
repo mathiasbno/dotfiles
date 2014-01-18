@@ -18,9 +18,7 @@ alias ll='ls -la'
 
 # --- COPY TO X CLIPBOARD ------------------------------------------------------
 
-if [ -x xclip ] ; then
-  alias xcp='xclip -selection clipboard'
-fi
+alias xcp='xclip -selection clipboard'
 
 # --- BUNDLER ALIASES ----------------------------------------------------------
 
