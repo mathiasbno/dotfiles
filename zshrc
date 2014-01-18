@@ -1,5 +1,4 @@
 source ~/.zsh/config/completion.zsh
-source ~/.zsh/config/environment.zsh
 source ~/.zsh/config/options.zsh
 source ~/.zsh/config/aliases.zsh
 source ~/.zsh/config/sources.zsh
