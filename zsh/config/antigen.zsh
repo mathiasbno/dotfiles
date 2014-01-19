@@ -11,6 +11,7 @@ if [ -e /usr/share/zsh/scripts/antigen/antigen.zsh ] ; then
   antigen bundle pip
   antigen bundle bower
   antigen bundle npm
+  antigen bundle github
 
   # Zsh syntax highlighting
   antigen bundle zsh-users/zsh-syntax-highlighting
