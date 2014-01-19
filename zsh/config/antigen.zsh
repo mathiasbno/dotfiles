@@ -13,6 +13,7 @@ if [ -e /usr/share/zsh/scripts/antigen/antigen.zsh ] ; then
   antigen bundle npm
   antigen bundle github
   antigen bundle urltools
+  antigen bundle wd
 
   # Zsh syntax highlighting
   antigen bundle zsh-users/zsh-syntax-highlighting
