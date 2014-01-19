@@ -10,6 +10,7 @@ if [ -e /usr/share/zsh/scripts/antigen/antigen.zsh ] ; then
   antigen bundle heroku
   antigen bundle pip
   antigen bundle bower
+  antigen bundle npm
 
   # Zsh syntax highlighting
   antigen bundle zsh-users/zsh-syntax-highlighting
