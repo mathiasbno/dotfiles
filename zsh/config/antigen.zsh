@@ -9,7 +9,6 @@ if [ -e /usr/share/zsh/scripts/antigen/antigen.zsh ] ; then
   antigen bundle svn
   antigen bundle heroku
   antigen bundle pip
-  antigen bundle lein
 
   # Zsh syntax highlighting
   antigen bundle zsh-users/zsh-syntax-highlighting
