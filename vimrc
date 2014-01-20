@@ -10,11 +10,6 @@ filetype off
 set runtimepath+=~/.vim/bundle/vundle/
 call vundle#rc()
 
-" --- SET COLORSCHEME ----------------------------------------------------------
-
-"colorscheme Dim
-colorscheme default
-
 " --- SOURING CONFIGURATION FILES ----------------------------------------------
 
 source ~/.vim/config/.environment.vim
