@@ -8,7 +8,8 @@ zsh/config/paths.zsh
 zsh/config/.private.zsh
 
 # Vim plugins managed by Vundle
-vim/bundle
+vim/bundle/*
+!vim/bundle/vundle
 
 # Environment-specific Vim config
 vim/config/.environment.vim
