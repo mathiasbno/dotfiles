@@ -1,6 +1,8 @@
 " It is required that Vundle manages Vundle
 Bundle "gmarik/vundle"
 
+Bundle "mattn/webapi-vim"
+
 " Core feature enhancements
 Bundle "tpope/vim-characterize"
 Bundle "tpope/vim-repeat"
