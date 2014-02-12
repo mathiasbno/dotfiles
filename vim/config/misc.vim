@@ -17,3 +17,5 @@ set nojoinspaces
 
 " Prevent errors with LiveReload and write backups
 set nowritebackup
+
+set hidden
