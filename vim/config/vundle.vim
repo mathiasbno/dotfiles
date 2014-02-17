@@ -25,6 +25,7 @@ Bundle "tpope/vim-rbenv"
 Bundle "vim-ruby/vim-ruby"
 Bundle "vim-scripts/matchit.zip"
 Bundle "wavded/vim-stylus"
+Bundle "sindrenm/angular.vim"
 
 " Navigation
 Bundle "kien/ctrlp.vim"
