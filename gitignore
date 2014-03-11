@@ -17,7 +17,7 @@
 .todo
 
 # Exuberant ctags
-tags
+/tags
 
 # Ignore .ruby-version file
 .ruby-version
