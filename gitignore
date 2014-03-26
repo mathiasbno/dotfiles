@@ -10,10 +10,10 @@
 # LibreOffice backup files
 .~lock.*
 
-# OS X dorectory attributes
+# OS X directory attributes
 .DS_Store
 
-# Todo list files
+# TODO list files
 .todo
 
 # Exuberant ctags
@@ -21,3 +21,9 @@ tags
 
 # Ignore .ruby-version file
 .ruby-version
+
+# Ignore RSpec configuration
+.rspec
+
+# Figaro application configuration
+config/application.yml
