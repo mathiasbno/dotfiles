@@ -42,6 +42,7 @@ Bundle "tpope/vim-surround"
 Bundle "jceb/vim-textobj-uri"
 Bundle "kana/vim-textobj-fold"
 Bundle "kana/vim-textobj-user"
+Bundle "ConradIrwin/vim-comment-object"
 Bundle "killphi/vim-textobj-signify-hunk"
 Bundle "nelstrom/vim-textobj-rubyblock"
 
