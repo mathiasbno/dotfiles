@@ -1,5 +1,5 @@
 set incsearch
-set nohlsearch
+set hlsearch
 
 set ignorecase
 set smartcase
