@@ -52,6 +52,9 @@ Bundle "gregsexton/gitv"
 Bundle "mhinz/vim-signify"
 Bundle "tpope/vim-fugitive"
 
+" Color schemes
+Bundle "tpope/vim-vividchalk"
+
 " Misclellaneous
 Bundle "mattn/gist-vim"
 Bundle "tommcdo/vim-exchange"

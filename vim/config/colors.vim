@@ -1,2 +1,2 @@
-color elflord
+color vividchalk
 highlight clear SignColumn

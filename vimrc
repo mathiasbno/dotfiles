@@ -22,12 +22,15 @@ source ~/.vim/config/cursor.vim
 source ~/.vim/config/indentation.vim
 source ~/.vim/config/tabs.vim
 source ~/.vim/config/misc.vim
-source ~/.vim/config/colors.vim
 
 " --- List all bundles ---------------------------------------------------------
 
 source ~/.vim/config/vundle.vim
 source ~/.vim/config/plugin_settings.vim
+
+" --- Color schemes ------------------------------------------------------------
+
+source ~/.vim/config/colors.vim
 
 " Required to do AFTER listing bundles, for some reason
 filetype plugin indent on
