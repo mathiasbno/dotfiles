@@ -23,3 +23,4 @@ alias xcp='xclip -selection clipboard'
 # --- BUNDLER ALIASES ----------------------------------------------------------
 
 alias be='bundle exec'
+alias babel='bundle && label'
