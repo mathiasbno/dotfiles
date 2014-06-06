@@ -63,3 +63,5 @@ Bundle "tpope/vim-dispatch"
 Bundle "vim-scripts/dbext.vim"
 Bundle "vim-scripts/loremipsum"
 Bundle "suan/vim-instant-markdown"
+
+Bundle "AndrewRadev/splitjoin.vim"
