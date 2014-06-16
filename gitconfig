@@ -16,22 +16,20 @@
 [alias]
   co          = checkout
   ci          = commit
-  st          = status --ignore-submodules
+  st          = status
   br          = branch -v
-  df          = diff --ignore-submodules
+  df          = diff
   hist        = log --graph --pretty=format:'%C(red)%h%Creset %C(green)%ad%Creset | %s%C(yellow)%d%Creset %C(bold blue)<%an>%Creset' --date=short
   last        = "!f() { git hist --max-count $1; }; f"
   pr          = pull --rebase --ff-only
-  gtfo        = push
-  gief        = pull
-  stag        = push staging staging:master
-  prod        = push production production:master
-  push-all    = push origin master:master staging:staging production:production
+  stag        = push staging develop:master
+  prod        = push production master:master
 
 [github]
   user = sindrenm
 
 [push]
   default = simple
+
 [clean]
   requireForce = false
