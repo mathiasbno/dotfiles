@@ -18,6 +18,9 @@ if [ -e /usr/share/zsh/scripts/antigen/antigen.zsh ] ; then
   # Zsh syntax highlighting
   antigen bundle zsh-users/zsh-syntax-highlighting
 
+  # Additional Zsh completions
+  antigen bundle zsh-users/zsh-completions
+
   # Load awesomepanda prompt
   antigen theme awesomepanda
 
