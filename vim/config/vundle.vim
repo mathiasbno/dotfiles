@@ -56,12 +56,12 @@ Bundle "tpope/vim-fugitive"
 Bundle "tpope/vim-vividchalk"
 
 " Misclellaneous
+Bundle "AndrewRadev/splitjoin.vim"
 Bundle "mattn/gist-vim"
+Bundle "scrooloose/syntastic"
+Bundle "suan/vim-instant-markdown"
 Bundle "tommcdo/vim-exchange"
 Bundle "tpope/vim-abolish"
 Bundle "tpope/vim-dispatch"
 Bundle "vim-scripts/dbext.vim"
 Bundle "vim-scripts/loremipsum"
-Bundle "suan/vim-instant-markdown"
-
-Bundle "AndrewRadev/splitjoin.vim"
