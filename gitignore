@@ -27,3 +27,6 @@
 
 # Figaro application configuration
 config/application.yml
+
+# Direnv environment file
+.envrc
