@@ -52,6 +52,9 @@ Bundle "gregsexton/gitv"
 Bundle "mhinz/vim-signify"
 Bundle "tpope/vim-fugitive"
 
+" Searching
+Bundle "rking/ag.vim"
+
 " Color schemes
 Bundle "tpope/vim-vividchalk"
 
