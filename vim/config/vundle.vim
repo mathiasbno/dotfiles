@@ -36,6 +36,8 @@ Bundle "kien/ctrlp.vim"
 " Text formatting
 Bundle "godlygeek/tabular"
 Bundle "vim-scripts/TextFormat"
+Bundle "junegunn/goyo.vim"
+Bundle "junegunn/limelight.vim"
 
 " Text manipulation
 Bundle "tpope/vim-surround"
