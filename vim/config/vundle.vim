@@ -8,6 +8,7 @@ Bundle "tpope/vim-characterize"
 Bundle "tpope/vim-repeat"
 Bundle "tpope/vim-speeddating"
 Bundle "tpope/vim-unimpaired"
+Bundle "itchyny/lightline.vim"
 
 " Language support
 Bundle "digitaltoad/vim-jade"

@@ -19,3 +19,5 @@ set nojoinspaces
 set nowritebackup
 
 set hidden
+
+set laststatus=2
