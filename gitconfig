@@ -16,10 +16,11 @@
 [alias]
   co          = checkout
   ci          = commit
-  st          = status
+  st          = status -s
   br          = branch -v
   df          = diff
   hist        = log --graph --pretty=format:'%C(red)%h%Creset %C(green)%ad%Creset | %s%C(yellow)%d%Creset %C(bold blue)<%an>%Creset' --date=short
+  lg          = log --oneline --decorate --graph
   last        = "!f() { git hist --max-count $1; }; f"
   pr          = pull --rebase --ff-only
   stag        = push staging develop:master
