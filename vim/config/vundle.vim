@@ -64,7 +64,7 @@ Bundle "tpope/vim-vividchalk"
 " Misclellaneous
 Bundle "AndrewRadev/splitjoin.vim"
 Bundle "MarcWeber/vim-addon-mw-utils"
-Bundle "garbas/vim-snipmate"
+Bundle "SirVer/ultisnips"
 Bundle "honza/vim-snippets"
 Bundle "mattn/gist-vim"
 Bundle "scrooloose/syntastic"
