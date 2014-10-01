@@ -21,3 +21,6 @@ set nowritebackup
 set hidden
 
 set laststatus=2
+
+" Prettier list characters
+set listchars=tab:▸\ ,eol:¬
