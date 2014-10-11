@@ -1,0 +1,30 @@
+
+snippet def
+def ${1:method_name}
+	${0}
+end
+endsnippet
+
+snippet defp
+def ${1:method_name}(${2:*args})
+	${0}
+end
+endsnippet
+
+snippet desc
+describe "${1:anything}" do
+	${0:${VISUAL}}
+end
+endsnippet
+
+snippet cont
+context "${1:anything}" do
+	${0:${VISUAL}}
+end
+endsnippet
+
+snippet it
+it "${1:works}" do
+	${0:expect(true).to be true}
+end
+endsnippet
