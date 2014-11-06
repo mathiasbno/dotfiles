@@ -24,6 +24,9 @@ if [ -e /usr/share/zsh/scripts/antigen/antigen.zsh ] ; then
   # Load awesomepanda prompt
   antigen theme awesomepanda
 
+  # Timuru
+  antigen bundle timkurvers/git-wipe-branch
+
   # Finish up
   antigen apply
 fi
