@@ -1,5 +1,5 @@
 " It is required that Vundle manages Vundle
-Plugin 'gmarik/vundle'
+Plugin 'gmarik/Vundle.vim'
 
 Plugin 'mattn/webapi-vim'
 

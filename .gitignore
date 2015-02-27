@@ -9,7 +9,7 @@ zsh/config/.private.zsh
 
 # Vim plugins managed by Vundle
 vim/bundle/*
-!vim/bundle/vundle
+!vim/bundle/Vundle.vim
 
 # Environment-specific Vim config
 vim/config/.environment.vim

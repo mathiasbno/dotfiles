@@ -7,7 +7,7 @@ set nocompatible
 syntax on
 filetype off
 
-set runtimepath+=~/.vim/bundle/vundle/
+set runtimepath+=~/.vim/bundle/Vundle.vim/
 call vundle#rc()
 
 " --- SOURING CONFIGURATION FILES ----------------------------------------------
