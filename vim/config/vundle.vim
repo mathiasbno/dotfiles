@@ -4,7 +4,6 @@ Bundle "gmarik/vundle"
 Bundle "mattn/webapi-vim"
 
 " Core feature enhancements
-Bundle "tpope/vim-characterize"
 Bundle "tpope/vim-repeat"
 Bundle "tpope/vim-speeddating"
 Bundle "tpope/vim-unimpaired"
