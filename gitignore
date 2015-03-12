@@ -22,6 +22,9 @@
 # Ignore .ruby-version file
 .ruby-version
 
+# Ignore local RSpec config
+.rspec-local
+
 # Figaro application configuration
 config/application.yml
 
