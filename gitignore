@@ -30,3 +30,6 @@ config/application.yml
 
 # Direnv environment file
 .envrc
+
+# Vim projections from projectionist.vim
+.projections.json
