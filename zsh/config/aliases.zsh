@@ -24,3 +24,6 @@ alias xcp='xclip -selection clipboard'
 
 alias be='bundle exec'
 alias babel='bundle && label'
+
+# --- FUCK ---------------------------------------------------------------------
+alias fuck='$(thefuck $(fc -ln -1))'
