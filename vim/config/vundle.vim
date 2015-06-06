@@ -57,6 +57,7 @@ Plugin 'tpope/vim-fugitive'
 
 " Searching
 Plugin 'rking/ag.vim'
+Plugin 'nelstrom/vim-visual-star-search'
 
 " Color schemes
 Plugin 'tpope/vim-vividchalk'
