@@ -31,7 +31,7 @@ Plugin 'vim-scripts/matchit.zip'
 Plugin 'wavded/vim-stylus'
 
 " Navigation
-Plugin 'kien/ctrlp.vim'
+Plugin 'szw/vim-ctrlspace' 
 
 " Text formatting
 Plugin 'godlygeek/tabular'
