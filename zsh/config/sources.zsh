@@ -8,6 +8,10 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 eval "$(direnv hook zsh)"
 
+# --- CHRUBY -------------------------------------------------------------------
+
+source /usr/share/chruby/chruby.sh
+
 # --- NDENV CONFIG -------------------------------------------------------------
 
 if which ndenv > /dev/null; then eval "$(ndenv init -)"; fi
