@@ -7,6 +7,7 @@ eval "$(direnv hook zsh)"
 # --- CHRUBY -------------------------------------------------------------------
 
 source /usr/share/chruby/chruby.sh
+source /usr/share/chruby/auto.sh
 
 # --- NDENV CONFIG -------------------------------------------------------------
 
