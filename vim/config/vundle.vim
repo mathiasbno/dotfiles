@@ -11,6 +11,7 @@ Plugin 'itchyny/lightline.vim'
 
 " Language support
 Plugin 'digitaltoad/vim-jade'
+Plugin 'direnv/direnv.vim'
 Plugin 'dsawardekar/riml.vim'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'moll/vim-node'
