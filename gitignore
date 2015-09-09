@@ -19,6 +19,9 @@
 # Exuberant ctags
 /tags
 
+# Ignore .node-version file
+.node-version
+
 # Ignore .ruby-version file
 .ruby-version
 
