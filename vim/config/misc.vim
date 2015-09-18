@@ -2,7 +2,7 @@
 set number
 
 " Show numbers relative to current cursor position
-set relativenumber
+set norelativenumber
 
 " Disable esckeys option. This makes sure that an <Esc> character is immediately
 " recognized from insert mode, but disables some functionality from inside
