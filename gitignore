@@ -5,16 +5,9 @@
 
 # Vim swap files
 *.swp
-*.swo
 
 # LibreOffice backup files
 .~lock.*
-
-# OS X directory attributes
-.DS_Store
-
-# TODO list files
-.todo
 
 # Exuberant ctags
 /tags
@@ -27,9 +20,6 @@
 
 # Ignore local RSpec config
 .rspec-local
-
-# Figaro application configuration
-config/application.yml
 
 # Direnv environment file
 .envrc
