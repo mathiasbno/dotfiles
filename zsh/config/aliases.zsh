@@ -27,3 +27,6 @@ alias babel='bundle && label'
 
 # --- FUCK ---------------------------------------------------------------------
 alias fuck='$(thefuck $(fc -ln -1))'
+
+# --- Warp directory (wd) ------------------------------------------------------
+alias wda='wd add $(basename $PWD)'
