@@ -32,3 +32,7 @@ alias fuck='$(thefuck $(fc -ln -1))'
 # --- Warp directory (wd) ------------------------------------------------------
 
 alias wda='wd add $(basename $PWD)'
+
+# --- Bundle, label and versionate ---------------------------------------------
+
+alias blv='bundle && label && versionate process --no-patch --specifier="~>" Gemfile'
