@@ -6,13 +6,9 @@ if [ -e /usr/share/zsh/scripts/antigen/antigen.zsh ] ; then
 
   # Bundle plugins from robbyrussel/oh-my-zsh
   antigen bundle git
-  antigen bundle svn
   antigen bundle heroku
-  antigen bundle pip
   antigen bundle bower
   antigen bundle npm
-  antigen bundle github
-  antigen bundle urltools
   antigen bundle wd
 
   # Zsh syntax highlighting
@@ -23,9 +19,6 @@ if [ -e /usr/share/zsh/scripts/antigen/antigen.zsh ] ; then
 
   # Load awesomepanda prompt
   antigen theme awesomepanda
-
-  # Timuru
-  antigen bundle timkurvers/git-wipe-branch
 
   # Finish up
   antigen apply
