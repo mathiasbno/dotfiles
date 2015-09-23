@@ -1,7 +1,6 @@
 #! /bin/zsh
 
 PATH=/usr/local/bin:$PATH
-PATH=/usr/local/heroku/bin:$PATH
 PATH=$HOME/bin:$PATH;                                       export PATH
 
 MANPATH=/usr/local/texlive/2012/texmf/doc/man:$MANPATH;     export MANPATH
