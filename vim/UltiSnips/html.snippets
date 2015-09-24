@@ -3,3 +3,20 @@ snippet <
 	${0:${VISUAL}}
 </$1>
 endsnippet
+
+snippet dmod
+<dom-module id="${1:module-id}">
+	<template>
+		<style>
+		</style>
+
+		${0}
+	</template>
+
+	<script>
+		Polymer({
+			is: '$1',
+		});
+	</script>
+</dom-module>
+endsnippet
