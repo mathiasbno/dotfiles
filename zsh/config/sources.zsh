@@ -1,14 +1,13 @@
 #! /bin/zsh
 
-# --- SOURCE CHRUBY ------------------------------------------------------------
+# --- INITIALIZE RBENV ---------------------------------------------------------
 
-source /usr/share/chruby/chruby.sh
-source /usr/share/chruby/auto.sh
+eval "$(rbenv init -)"
 
 # --- DIRENV CONFIG ------------------------------------------------------------
 
 eval "$(direnv hook zsh)"
 
-# --- NDENV CONFIG -------------------------------------------------------------
+# --- INITIALIZE NDENV ---------------------------------------------------------
 
 if which ndenv > /dev/null; then eval "$(ndenv init -)"; fi
