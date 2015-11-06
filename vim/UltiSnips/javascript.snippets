@@ -39,3 +39,13 @@ endsnippet
 snippet xit
 xit('${1:follows the leader}');
 endsnippet
+
+snippet setget
+set ${1:what}($1) {
+	this._$1 = $1;
+}
+
+get $1() {
+	return this._$1;
+}${0}
+endsnippet
