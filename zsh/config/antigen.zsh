@@ -9,13 +9,16 @@ if [ -e /usr/share/zsh/scripts/antigen/antigen.zsh ] ; then
   antigen bundle heroku
   antigen bundle bower
   antigen bundle npm
-  antigen bundle wd
 
   # Zsh syntax highlighting
   antigen bundle zsh-users/zsh-syntax-highlighting
 
   # Additional Zsh completions
   antigen bundle zsh-users/zsh-completions
+
+  # Warp directory. Fetch from GitHub to get the latest changes, specifically
+  # this one: https://github.com/mfaerevaag/wd/pull/33
+  antigen bundle mfaerevaag/wd
 
   # Load awesomepanda prompt
   antigen theme awesomepanda
