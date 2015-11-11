@@ -8,7 +8,3 @@ source ~/.zsh/config/.private.zsh
 
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
-
-wd() {
-  . /home/sindre/bin/wd/wd.sh
-}
