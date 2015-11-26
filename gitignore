@@ -3,6 +3,10 @@
 *.sqlite3
 *.log
 
+# Android Studio project files
+*.iml
+.idea
+
 # Vim swap files
 *.swp
 
