@@ -27,3 +27,7 @@ set laststatus=2
 
 " Prettier list characters
 set listchars=tab:▸\ ,eol:¬
+
+" Move swap and backup files out of the current working directory
+set backupdir=~/tmp/vim-backup,/tmp
+set directory=~/tmp/vim-swap,/tmp
