@@ -8,7 +8,7 @@
 .idea
 
 # KAnnotator annotations
-/annotations/
+/.annotations/
 
 # Vim swap files
 *.swp
