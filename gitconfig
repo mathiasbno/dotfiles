@@ -6,6 +6,7 @@
 [user]
   name = Sindre Moen
   email = sindrenm@gmail.com
+  signingkey = 7DFDAA45
 
 [color "diff"]
   whitespace = red reverse
