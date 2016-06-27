@@ -4,9 +4,8 @@
   editor = vim
 
 [user]
-  name = Sindre Moen
-  email = sindrenm@gmail.com
-  signingkey = 7DFDAA45
+  name = Mathias Benjaminsen
+  email = mabenjam@gmail.com
 
 [color "diff"]
   whitespace = red reverse
